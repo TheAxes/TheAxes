@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channels/ucmehnsla2o6wqqtqpjwu-sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmehnsla2o6wqqtqpjwu-sw" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCMEhNSLa2O6WQqtqpjwu-sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmehnsla2o6wqqtqpjwu-sw" height="30" width="40" /></a>
 <a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="40" /></a>
 </p>
 
