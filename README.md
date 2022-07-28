@@ -9,7 +9,7 @@
 
 - 🤝 I’m currently working on discord projects **Discord Tools And Discord Bot**
 
-- 👨‍💻 All of my projects are available at [My Repository](https://github.com/DevanshIsOp?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/TheAxes?tab=repositories)
 
 - 💬 Ask me about **Discord Bots**
 
