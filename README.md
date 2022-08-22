@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Discord Bots**
 
-- 📫 Email to reach me **theaxes69@gmail.com**
+- 📫 Email to reach me **TheAxes@proton.me**
 
 - ⚡ Fun fact **I am Best**
 
