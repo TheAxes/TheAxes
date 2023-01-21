@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Discord.py**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python,Html**
 
 - 🤝 I’m currently working on discord projects **Discord Tools And Discord Bot**
 
