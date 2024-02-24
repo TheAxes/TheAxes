@@ -23,7 +23,7 @@
 <a href="https://discord.gg/TbdPeYqkZp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="40" /></a>
 </p>
 
-![Status](https://discord.c99.nl/widget/theme-2/609327822531592215.png)
+![Status](https://discord.c99.nl/widget/theme-2/1105162178044108900.png)
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
